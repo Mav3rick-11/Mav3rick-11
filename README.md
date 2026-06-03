@@ -24,7 +24,7 @@ Cybersecurity Analyst with 5+ years of experience in Incident Response and Threa
 
 ### Defensive Security
 - Splunk
-- Microsoft Sentinel
+- Microsoft Defender
 - Incident Response
 - Threat Analysis
 - SIEM Engineering
