@@ -1,57 +1,43 @@
 # Hunter Ratliff
 
-Cybersecurity Analyst with 5+ years of experience in Incident Response and Threat Analysis transitioning into Red Teaming and Offensive Security.
+Cybersecurity Analyst with 5+ years of experience in Incident Response and Threat Analysis, actively transitioning into Red Teaming and Offensive Security. Currently pursuing OSCP while building out a hands-on offensive security portfolio through HackTheBox and bug bounty research.
 
 ## Certifications
 - CompTIA PenTest+
 - CompTIA CySA+
 - CompTIA Security+
+- EC-Council Certified Security Analyst (ECSA)
+- OSCP *(in progress)*
 
 ## Current Focus
-- Active Directory Attacks
-- Web Application Pentesting
 - OSCP Preparation
-- Hack The Box Labs
-- Detection Engineering
+- Active Directory Attacks & Kerberoasting
+- Web Application Pentesting
+- HackTheBox Labs (12+ retired machines)
+- Bug Bounty Research & Custom Tooling
 
 ## Technical Skills
+
 ### Offensive Security
-- Nmap
-- Metasploit
-- Burp Suite
-- BloodHound
-- Nessus
+- Nmap · Metasploit · Burp Suite · BloodHound · Gobuster
+- Impacket · Hashcat · John the Ripper · Netcat
+- Python (custom tooling) · Bash scripting
 
 ### Defensive Security
-- Splunk
-- Microsoft Defender
-- Incident Response
-- Threat Analysis
-- SIEM Engineering
+- Splunk · SentinelOne · Secureworks Taegis XDR
+- Incident Response · Threat Analysis · SIEM Engineering
+- Microsoft Defender · Detection Engineering
 
-## Featured Projects
-- HTB Writeups
-- Detection Engineering Labs
-- Pentesting Notes
-- Automation Scripts
+## Projects
+
+| Repo | Description |
+|------|-------------|
+| [HTB-Writeups](https://github.com/Mav3rick-11/HTB-Writeups) | Writeups for 12+ retired HackTheBox machines covering enumeration, exploitation, and privilege escalation |
+| [bug_bounty_tools](https://github.com/Mav3rick-11/bug_bounty_tools) | Custom Python tooling for bug bounty research including a multi-technique SQLi scanner |
+| [hackers-bible](https://github.com/Mav3rick-11/hackers-bible) | Personal penetration testing reference covering recon, exploitation, AD attacks, and post-exploitation |
 
 ## Education
-MS Cybersecurity – West Virginia University
+MS Cybersecurity — West Virginia University
 
-## Connect With Me
+## Connect
 [LinkedIn](https://www.linkedin.com/in/hunter-ratliff-910469309/)
-
-<!--
-**Mav3rick-11/Mav3rick-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
